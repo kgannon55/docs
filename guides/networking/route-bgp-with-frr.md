@@ -6,7 +6,7 @@
     "seo-title": "Route BGP with FRR - Packet Technical Guides",
     "seo-description": "Similar to Bird, FRR is a routing daemon for Linux that can be used to announce an Elastic IP address via BGP",
     "og-title": "Route BGP with FRR on Packet",
-    "og-description":"Similar to Bird, FRR is a routing daemon for Linux that can be used to announce an Elastic IP address via BGP"
+    "og-description":"Similar to Bird, FRR is a routing daemon for Linux that can be used to announce an Elastic IP address via BGP."
 }
 </meta> -->
 
