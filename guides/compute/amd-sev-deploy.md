@@ -1,6 +1,6 @@
 <!-- <meta>
 {
-    "title": "AMD Sev with Anjuna",
+    "title": "AMD SEV with Anjuna",
     "description": "AMD SEV is a unprecedented level of security for confidential workloads. Learn how to deploy it on Packet.",
     "tag": ["AMD", "SEV"],
     "seo-title": "Deploy AMD SEV on Bare Metal- Packet Technical Guides",
